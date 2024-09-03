@@ -1,6 +1,10 @@
 YOLO Car Detection
 This project uses the YOLO (You Only Look Once) object detection model to detect cars in a video and output relevant metrics. The code uses OpenCV for video processing and the YOLO model for object detection.
+
+
 **Note : Since weight file is more than 100 MB. it is not possible to uplode or commit to git repo.**
+
+
 Features
 YOLO Model Loading: Loads a YOLO model with specified configuration and weights.
 Class Names Loading: Loads class names from a specified file.
